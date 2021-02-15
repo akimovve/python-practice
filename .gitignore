@@ -1,0 +1,122 @@
+# ide
+/.vscode
+/.idea
+
+# vagrant
+.vagrant/
+
+# osx
+.DS_Store
+
+# windows
+Thumbs.db
+
+# byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# c extensions
+*.so
+
+# packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# py installer
+*.manifest
+*.spec
+
+# logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# unit test
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# translations
+*.mo
+*.pot
+
+# django
+*.log
+local_settings.py
+db.sqlite3
+
+# flask
+instance/
+.webassets-cache
+
+# scrapy
+.scrapy
+
+# sphinx docs
+docs/_build/
+
+# py builder
+target/
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# iPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# sage math parsed files
+*.sage.py
+
+# environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# spyder
+.spyderproject
+.spyproject
+
+# rope
+.ropeproject
+
+# mkdocs
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
