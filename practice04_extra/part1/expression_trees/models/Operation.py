@@ -6,3 +6,6 @@ class Operation:
 
     def count(self):
         pass
+
+    def stack(self):
+        pass
